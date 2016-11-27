@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Signature App</string>
+    <string name="screen">Submit</string>
+    <string name="screenreset">Reset</string>
+</resources>
